@@ -1,0 +1,7 @@
+Name your goal within one year. Name three sub-goals that will allow you to achieve your primary goal.
+
+My goal : Become a junior Full Stack web developer and work with a good IT company.
+
+My subgoals: - Make my own Full stack JS project, at least.
+	     - Cooperate in the Front end JS for at least 3 big projects.
+	     - Practice more Back end JS coding by participating in 3 big projects.
